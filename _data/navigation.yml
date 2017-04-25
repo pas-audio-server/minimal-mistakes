@@ -4,6 +4,8 @@ main:
     url: "/about/"
   - title: "Milestones"
     url: "/milestones/"
+  - title: "Development Environment"
+    url: "/development-environment/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
