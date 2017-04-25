@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "pas audio server"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "pas is a lightweight yet powerful analog and digital audio server. It distinguishes itself by its ability to emit many simultaneous stereo streams even on computers costing less than $50."
+url                      : "https://pas-audio-server.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "pas-audio-server/pas-audio-server.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,6 +108,7 @@ author:
 
 
 # Reading Files
+include: ["_pages"]
 include:
   - .htaccess
   - _pages
