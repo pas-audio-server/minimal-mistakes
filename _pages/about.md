@@ -20,7 +20,7 @@ owners mounted a rack of receivers. ![house]
 
 The rack of receivers proved to be entirely unnessary because the in-wall speakers are driven by a cool line-level audio distribution system called [A-bus](http://www.leisuretech.com.au/ABWhat.htm).
 
-As a "gray-beard" computer programmer who loves his craft, everything looks like an opportunity for code. pas exists because it had to.
+As a "gray-beard" computer programmer who loves his craft, everything looks like an opportunity for code. pas exists because it has to.
 
 Why didn't I use _________ solution?
 ===
