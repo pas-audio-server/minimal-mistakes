@@ -6,7 +6,7 @@ permalink: /about/
 
 The genisis of pas (perry's audio server) was the purchase of a home in which several
 rooms had in-wall speakers. These lead to a central point at which the previous home
-owners had a rack of receivers. ![house]
+owners mounted a rack of receivers. ![house]
 
 [house]: ../assets/house.jpg
 {: }
@@ -20,11 +20,11 @@ owners had a rack of receivers. ![house]
 
 The rack of receivers proved to be entirely unnessary because the in-wall speakers are driven by a cool line-level audio distribution system called [A-bus](http://www.leisuretech.com.au/ABWhat.htm).
 
-As a "gray-beard" computer programmer, how could I resist.
+As a "gray-beard" computer programmer who loves his craft, everything looks like an opportunity for code. pas exists because it had to.
 
 Why didn't I use _________ solution?
 ===
-First, because I didn't know they existed.
+First, because I didn't know _________ existed.
 
-Second, even if I did know, I wanted a project to work upon. Coding is life.
+Second, even if I did know, I wanted a project to work upon. Code is life.
 
