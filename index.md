@@ -26,4 +26,4 @@ Some information about pas:
 
 # pas on GitHub
 
-pas can be found on GitHub at: <a href="https://github.com/pas-audio-server">this location</a>.
+pas can be found on GitHub <a href="https://github.com/pas-audio-server">here</a>.
