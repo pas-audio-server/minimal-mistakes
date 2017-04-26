@@ -23,3 +23,7 @@ Some information about pas:
 - pas *may* expose a MPD-compatible interface as the pas API is quite robust.
 - pas is being developed on an <a href="http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825">odroid XU4</a>.
 - pas is being developed using an audioengine D3 USB DAC, a DragonFly Black from AudioQuest and 3 Fiio DACs - see the hardware page for more information..
+
+# pas on GitHub
+
+pas can be found on GitHub at: <a href="https://github.com/pas-audio-server">this location</a>.
