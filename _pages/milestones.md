@@ -12,7 +12,9 @@ Key milestones
 
 LOZORD doing cool installers and such - we're making sure pas is installable by our hoped for users. 
 
-Here's the newly wide-character compatible curses-client running 5 concurrent streams.![ss2]
+Here's the newly wide-character compatible curses-client running 5 concurrent streams.
+
+![ss2]
 
 [ss2]: ../assets/ss2.jpg
 {: }
@@ -31,7 +33,9 @@ New file system model done. Supports multiple namespaces (tree roots).
 
 ### 4/13/17
 
-A retro curses-based client is up and running. ![ss1]
+A retro curses-based client is up and running. 
+
+![ss1]
 
 [ss1]: ../assets/ss1.jpg
 {: }
@@ -45,7 +49,7 @@ Play queues and queue management implemented. LOZORD suggests shift from an ad-h
 
 LOZORD joins an a contributor. He's up on all the cool new stuff. He'll be working on the web / user facing infrastructure.
 
-# 4/4/17
+### 4/4/17
 
 pas drives two DACs simultaneously via command line client.
 

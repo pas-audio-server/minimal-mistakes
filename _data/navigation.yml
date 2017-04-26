@@ -4,11 +4,7 @@ main:
     url: "/about/"
   - title: "Milestones"
     url: "/milestones/"
-  - title: "Development Environment"
-    url: "/development-environment/"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Featured Hardware"
+    url: "/featured-hardware/"
+  - title: "Client API"
+    url: "/client-api/"
