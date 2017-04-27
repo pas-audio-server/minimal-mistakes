@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /fh/
+permalink: /development-environment/
 ---
 
 # Sponsors sought
@@ -24,7 +24,6 @@ In addition to the above, two of <a href="http://www.fiio.net/en/products/27">th
 ![Fiio E10-K](https://images-na.ssl-images-amazon.com/images/I/41Taa5DTsKL.jpg)
 
 The odroid-XU4 drives all four USB DACs (plus its built-in HDMI-based audio) without breaking stride. Here is a screenshot of pas driving five devices while also running the Linux command "htop." ![sshot]
-
 
 [sshot]: ../assets/ss3.png
 {: }

@@ -4,7 +4,7 @@ author_profile: false
 permalink: /
 ---
 
-Welcome to the pas organizational site.
+**perry's audio server**
 
 # What is pas?
 
