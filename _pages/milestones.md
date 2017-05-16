@@ -7,6 +7,17 @@ permalink: /milestones/
 Key milestones
 ===
 
+### 5/15/17
+
+After much time off including moving into the hope pas was intended for...
+
+![p01]
+
+[p01]: ../assets/pas_01.jpg
+
+What you see here is pas running four zones of an A-Bus audio distribution system. Yes, this looks messy -cable management is famously *not* my forte.
+
+However, these teeny tiny boxes replaced a rack of stereo equipment and does *more.*
 
 ### 4/25/17
 
