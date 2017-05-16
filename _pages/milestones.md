@@ -9,7 +9,7 @@ Key milestones
 
 ### 5/15/17
 
-After much time off including moving into the hope pas was intended for...
+After much time off including moving into the home pas was intended for...
 
 ![p01]
 
